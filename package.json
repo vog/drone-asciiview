@@ -1,0 +1,17 @@
+{
+  "name": "drone-asciiview",
+  "version": "0.0.0",
+  "description": "",
+  "main": "drone-asciiview.js",
+  "author": "Volker Grabsch",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vog/drone-asciiview.git"
+  },
+  "dependencies": {
+    "ar-drone": "~0.2.0",
+    "printf": "~0.1.2",
+    "uuid": "~1.4.1"
+  }
+}
